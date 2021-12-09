@@ -1,4 +1,5 @@
 # TicTacToe
+Following a free tutorial by [Fireship.io](https://fireship.io/courses/angular/start-angular-beginner-tutorial/) 
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.0.4.
 
