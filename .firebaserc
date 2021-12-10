@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "tic-tac-toe-w-angular": {
+      "hosting": {
+        "tic-tac-toe": [
+          "tic-tac-toe-w-angular"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "tic-tac-toe-w-angular"
+  }
+}
